@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.main-body{
+  display: flex;
+}
+.sidenav{
+  width: 30%;
+  height: 100vh;
+  background: #282c34;
+  color:white
+}
